@@ -3,4 +3,4 @@ Attempts to measure accuracy of global weather model forecasts (GFS, ECMWF) with
 
 ## Early notes
 
-(ECMWF Public Data Portal)[https://apps.ecmwf.int/datasets/data/interim-full-daily/levtype=sfc/] 
+[ECMWF Public Data Portal](https://apps.ecmwf.int/datasets/data/interim-full-daily/levtype=sfc/) 
