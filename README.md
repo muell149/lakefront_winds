@@ -2,12 +2,12 @@
 Attempts to measure accuracy of global weather model forecasts (GFS, ECMWF) against actual measurements 
 
 
-##Links
+## Links
 
-*[GFS git](https://github.com/ufs-community/ufs-weather-model/wiki)
-*[GFS Document](https://www.weather.gov/media/mdl/marinetpb2.pdf)
+* [GFS git](https://github.com/ufs-community/ufs-weather-model/wiki)
+* [GFS Document](https://www.weather.gov/media/mdl/marinetpb2.pdf)
 
-##Steps
+## Steps
 
 ### Step 1 Locate Data
 
