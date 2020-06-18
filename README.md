@@ -24,7 +24,7 @@ Attempts to measure accuracy of global weather model forecasts (GFS, ECMWF) agai
 * Both models are run once/6hrs, 00,06,12,18Z
 * GFS model forecasts in 1 hour time-steps, ECMWF forecasts in 3hr timesteps
 * Measure accuracy of windspeed, wind direction
-*ECMWF and GFSoutputs windspeeds and directions at 10m
+* ECMWF and GFSoutputs windspeeds and directions at 10m
  
 
 
